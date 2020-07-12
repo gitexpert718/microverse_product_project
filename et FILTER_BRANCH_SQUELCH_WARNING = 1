@@ -1,0 +1,59 @@
+[33mcommit c072bc03845b22615e6bd8fe7c5d5e74e575eb8f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: pablo <thegreatperses@gmail.com>
+Date:   Thu Aug 8 16:57:35 2019 -0500
+
+    16 tests pass
+
+[33mcommit 4d8e1af87695ddc92f7709d7e020791b414c9e18[m
+Author: PaulGureghian <paulgureghian@att.net>
+Date:   Thu Aug 8 14:17:43 2019 -0700
+
+    Up to UserStory#12
+
+[33mcommit 9e96e66e389e89e1b37acff0673730ce609aff54[m
+Author: PaulGureghian <paulgureghian@att.net>
+Date:   Thu Aug 8 11:22:30 2019 -0700
+
+    Did up to UserStory#5
+
+[33mcommit fee5e2ebe844911520177bb5f0bad408577a307b[m
+Author: pablo <thegreatperses@gmail.com>
+Date:   Wed Aug 7 16:35:45 2019 -0500
+
+    content 1
+
+[33mcommit e10600da56574e04ba5848dbe1b1f5ef5beb695d[m
+Author: pablo <thegreatperses@gmail.com>
+Date:   Wed Aug 7 16:03:42 2019 -0500
+
+    title
+
+[33mcommit 66a745461efe900298bed5b1fcc2a0e68c7e4bc7[m
+Author: PaulGureghian <paulgureghian@att.net>
+Date:   Wed Aug 7 13:47:05 2019 -0700
+
+    removed junk from html
+
+[33mcommit 69d3f18f0fc4b969ee4cada142b786945b3a44b9[m
+Author: PaulGureghian <paulgureghian@att.net>
+Date:   Wed Aug 7 13:26:09 2019 -0700
+
+    added hello pablo
+
+[33mcommit 6e8b310e1e2bf9133c14176c7444ccc6c9e80b82[m
+Author: pablo <thegreatperses@gmail.com>
+Date:   Wed Aug 7 15:18:12 2019 -0500
+
+    hello
+
+[33mcommit 4a410b961b7d1f5f203756fbca47231577f9c779[m
+Author: PaulGureghian <paulgureghian@att.net>
+Date:   Sun Aug 4 18:42:53 2019 -0700
+
+    added test template
+
+[33mcommit 48bccdf41579782769d901b32f2bbbc2b361f6ae[m
+Author: Paul Armen Gureghian <paulgureghian@att.net>
+Date:   Sun Aug 4 18:38:42 2019 -0700
+
+    Initial commit
